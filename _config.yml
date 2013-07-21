@@ -1,0 +1,10 @@
+name: "Aisenke"
+description: "Aisenke Electronic Technology Co.,Ltd. Webpages"
+
+url: "http://www.aisenke.com/home"
+
+paginate: 5
+
+markdown: rdiscount
+permalink: pretty
+pygments: true

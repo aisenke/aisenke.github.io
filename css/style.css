@@ -1,0 +1,42 @@
+a.buy-now {
+	background-color:#fb9e25;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	margin:10px 2px;
+	text-decoration:none;
+	text-shadow: none;
+}
+a.buy-now span.noshow {
+	display:none;
+}
+a.buy-now:hover span.noshow {
+	display:inline-block;
+}
+a.buy-now:hover span.show {
+	display:none;
+}
+a.buy-now:active {
+	background-color:#eeb44f;
+}
+
+.shop {
+	/*height:300px;
+	overflow:hidden;*/
+	list-style-position: inside;
+}
+.shop img {
+	height: 170px;
+	padding: 2px;
+	margin: 0 20px;
+}
+.shop img:hover {
+	background-color:#eeb44f;
+}

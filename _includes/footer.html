@@ -1,0 +1,51 @@
+	
+	<!-- Row of columns -->
+	<div class="container">
+		
+		<hr>
+		
+		<div class="row-fluid">
+			<div class="span4">
+				<h3>News &amp; Updates</h3>
+				<p>Find out about our latest news and updates:</p>
+				<ul>
+					{% for post in site.posts limit: 5 %}
+					<li><a  href="{{ post.url }}">{{ post.title }}</a></li>
+					{% endfor %}
+					<li>Visit <a href="http://gpeasy.com/" target="_blank">gpEasy</a> website</li>
+				</ul>
+			</div>
+	
+			<div class="span4">
+				<h3>Services &amp; Support</h3>
+				<p>Quick links to services and support available online or on request.</p>
+				<ul>
+					<li><a href="/tutorials">Tutorials</a> and&nbsp;<a href="/faq">FAQ</a></li>
+					<li><a href="/download">Download</a></li>
+					<li><a href="/services#product_design">Product Design</a></li>
+					<li><a href="/services#pcb_prototyping_and_assembly">PCB prototyping and assembly</a></li>
+					<li><a href="/contact">Tell</a>&nbsp;us what you need</li>
+				</ul>
+			</div>
+		
+			<div class="span4">
+				<h3>Company</h3>
+				<p>Get to know us and please do not hesitate to contact at anytime for any inquiries. Please also read our website&#39;s terms of use.</p>
+				<ul>
+					<li>About Us</li>
+					<li><a href="/contact">Contact</a></li>
+					<li><a href="/terms_of_use">Terms of use</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		
+		<hr>
+	
+		<p>Copyright &copy; 2011-2013 <a href="{{ site.url }}">Chongqing Aisenke Electronic Technology Co.,Ltd.</a> - All Rights Reserved</p>
+	</div>
+	
+</body>
+</html>
