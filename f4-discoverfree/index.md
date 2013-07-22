@@ -10,7 +10,7 @@ layout: default
 
 		<h3 style="text-align: center;">Development board specification</h3>
 
-		<p style="text-align: center;"><img alt="" src="/img/F4-DiscoverFree-front-info.png" style="width: 596px; height: 538px;" /></p>
+		<p style="text-align: center;"><img alt="" src="/img/F4-DiscoverFree-front-info.png" /></p>
 
 		<p style="text-align: center;">(picture size is approximate, but close to the original dimension of 106 x 66 mm)</p>
 
@@ -56,7 +56,7 @@ layout: default
 
 		<h3 style="text-align: center;">Choose your <span class="notranslate">Nodino Robotics&trade;</span> development flavor</span></span></h3>
 
-		<p style="text-align: center;"><img alt="" src="/img/F4-DiscoverFree-boxes.jpg" style="width: 900px; height: 675px;" /></p>
+		<p style="text-align: center;"><img alt="" src="/img/F4-DiscoverFree-boxes.jpg" /></p>
 
 		<p>There are three flavors of development kit you may choose:</p>
 
