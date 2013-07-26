@@ -5,6 +5,12 @@ layout: default
 
 <div class="row-fluid">
 	<div class="span12">
+		<h2>Products</h2>
+	</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span12">
 
 		<h2 style="text-align: center;"><a href="/Nodino_Robotics"><span class="notranslate">Nodino Robotics&trade;</span> NODINO-RC7</a></h2>
 

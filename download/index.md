@@ -5,8 +5,13 @@ layout: default
 
 <div class="row-fluid">
 	<div class="span12">
+		<h2>Download</h2>
+	</div>
+</div>
 
-		<h3>Download</h3>
+<div class="row-fluid">
+	<div class="span12">
+
 		<p>New site</p>
 
 	</div>

@@ -2,11 +2,16 @@
 title: Shop
 layout: default
 ---
+
+<div class="row-fluid">
+	<div class="span12">
+		<h2>Shop</h2>
+	</div>
+</div>
+
 <div class="shop">
 	<div class="row-fluid">
 		<div class="span12">
-
-			<h2>Shop</h2>
 			
 			<div class="item">
 				<h3><span class="notranslate">Open Source Hardware - Nodino Robotics&trade;</span></h3>

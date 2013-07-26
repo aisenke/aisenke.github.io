@@ -4,6 +4,12 @@ layout: default
 ---
 
 <div class="row-fluid">
+	<div class="span12">
+		<h2>Contact</h2>
+	</div>
+</div>
+
+<div class="row-fluid">
 	<div class="span4">
 		
 		<h3>Mailing address</h3>
@@ -32,7 +38,7 @@ layout: default
 		<h3>Google Maps</h3>
 		<p><iframe frameborder="0" width="100%" height="300" marginheight="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=heng+da+ming+du,+shiyoulu,+chongqing,+china&amp;sll=29.54098,106.510649&amp;sspn=0.010641,0.01929&amp;ie=UTF8&amp;hq=heng+da+ming+du,&amp;hnear=Shiyoulu&amp;t=m&amp;cid=1666171603130163058&amp;ll=29.546513,106.513095&amp;spn=0.011051,0.039697&amp;z=15&amp;output=embed"></iframe></p>
 		<h3>Contact us online</h3>
-		<p>Contacting us for purchasing item can be done through <a href="/shop">online shop</a> or you can also email us directly at <a href="mailto:info@aisenke.com"><span class="label label-info">info@aisenke.com</span></a> Please allow us several days to respond your inquiries.</p>
+		<p>If you have any feedback, questions or thoughts to share, you can reach us at <a href="mailto:info@aisenke.com"><span class="label label-info">info@aisenke.com</span></a> Please allow us several days to respond your inquiries.</p>
 
 	</div>
 </div>

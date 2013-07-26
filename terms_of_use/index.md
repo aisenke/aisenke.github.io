@@ -5,8 +5,12 @@ layout: default
 
 <div class="row-fluid">
 	<div class="span12">
-
 		<h2>Terms of Use</h2>
+	</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span12">
 
 		<p><strong>In using this website you are deemed to have read and agreed to the following terms and conditions:</strong></p>
 

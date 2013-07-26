@@ -5,8 +5,12 @@ layout: default
 
 <div class="row-fluid">
 	<div class="span12">
-
 		<h2>Frequently Asked Question</h2>
+	</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span12">
 
 		<p>Please choose from sections below to resolve some common issues and questions about our products.</p>
 
