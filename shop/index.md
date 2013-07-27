@@ -15,7 +15,7 @@ layout: default
 			
 			<div class="item">
 				<h3><span class="notranslate">Open Source Hardware - Nodino Robotics&trade;</span></h3>
-				<a href="/nodino_robotics" title="Learn more about Nodino Robotics open source hardware"><img alt="" class="left" src="/img/nodino-open-robotics.jpg" /></a>
+				<a href="/nodinorobotics" title="Learn more about Nodino Robotics open source hardware"><img alt="" class="left" src="/img/nodino-open-robotics.jpg" /></a>
 
 				<p><span class="notranslate">Nodino Robotics&trade;</span> open source hardware teaches everyone to build robots from scratch. It contains Nodino-RC1 and Nodino-RC7 open platforms. Nodino-RC1 is a wireless controller with dual PS2 joysticks. Nodino-RC7 features a robotic platform with four mounting holes for R/C micro servo. We offer a complete package, not assembled or assembled, consisting 12 R/C micro servo, 4 legs and some bold and nuts.</p>
 
@@ -58,7 +58,7 @@ layout: default
 
 			<div class="item">
 				<h3>F4-DiscoverFree R2.1</h3>
-				<a href="/f4-discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Board" class="left" src="/img/F4-DiscoverFree-front.png" /></a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Board" class="left" src="/img/F4-DiscoverFree-front.png" /></a>
 
 				<p>ARM Cortex&trade;-M4 based MCU development board featuring:</p>
 
@@ -88,7 +88,7 @@ layout: default
 
 			<div class="item">
 				<h3>F4-DiscoverFree R2.1 Complete Kit</h3>
-				<a href="/f4-discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Complete Kit" class="left" src="/img/F4-DiscoverFree-complete-kit.jpg" /> </a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Complete Kit" class="left" src="/img/F4-DiscoverFree-complete-kit.jpg" /> </a>
 
 				<p>The only thing you need to discover the most popular ARM Cortex&trade;-M4 based MCU development board featuring:</p>
 
@@ -123,7 +123,7 @@ layout: default
 
 			<div class="item">
 				<h3>F4-DiscoverFree R2.1 PCB</h3>
-				<a href="/f4-discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Board" class="left" src="/img/F4-DiscoverFree-pcb-front.png" /></a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Board" class="left" src="/img/F4-DiscoverFree-pcb-front.png" /></a>
 
 				<p>DIY F4-DiscoverFree is available to purchase as PCB only. Components are not included and should be purchased separately.</p>
 			</div>
@@ -141,7 +141,7 @@ layout: default
 
 			<div class="item">
 				<h3>F4-DiscoverFree R2.1 Full Support Kit</h3>
-				<a href="/f4-discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Full Support Kit" class="left" src="/img/F4-DiscoverFree-full-support-kit.jpg" /> </a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about F4-DiscoverFree"><img alt="F4-DiscoverFree Full Support Kit" class="left" src="/img/F4-DiscoverFree-full-support-kit.jpg" /> </a>
 
 				<p>The only thing you need to discover the most popular ARM Cortex&trade;-M4 based MCU development board featuring:</p>
 
@@ -172,7 +172,7 @@ layout: default
 
 			<div class="item">
 				<h3>BLDC-MEB R1.0</h3>
-				<a href="/f4-discoverfree" title="Learn more about BLDC-MEB"><img alt="BLDC-MEB Board" class="left" src="/img/BLDC-MEB-R1.0-front.png" /> </a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about BLDC-MEB"><img alt="BLDC-MEB Board" class="left" src="/img/BLDC-MEB-R1.0-front.png" /> </a>
 
 				<p>F4-DiscoverFree extension board to drive brushless DC motors featuring:</p>
 
@@ -201,7 +201,7 @@ layout: default
 
 			<div class="item">
 				<h3>F4-DiscoverFree + BLDC-MEB Complete Kit</h3>
-				<a href="/f4-discoverfree" title="Learn more about BLDC-MEB"><img alt="F4-DiscoverFree + BLDC-MEB Complete Kit" class="left" src="/img/F4-DiscoverFree-BLDC-MEB-complete-kit.jpg" /> </a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about BLDC-MEB"><img alt="F4-DiscoverFree + BLDC-MEB Complete Kit" class="left" src="/img/F4-DiscoverFree-BLDC-MEB-complete-kit.jpg" /> </a>
 
 				<p>A complete brushless DC motor development kit containing:</p>
 
@@ -233,7 +233,7 @@ layout: default
 
 			<div class="item">
 				<h3>BLDC-MEB R1.0 PCB</h3>
-				<a href="/f4-discoverfree" title="Learn more about BLDC-MEB"><img alt="F4-DiscoverFree Board" class="left" src="/img/BLDC-MEB-R1.0-pcb-front.png" /></a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about BLDC-MEB"><img alt="F4-DiscoverFree Board" class="left" src="/img/BLDC-MEB-R1.0-pcb-front.png" /></a>
 
 				<p>DIY BLDC-MEB is available to purchase as PCB only. Components are not included and should be purchased separately.</p>
 			</div>
@@ -251,7 +251,7 @@ layout: default
 
 			<div class="item">
 				<h3>F4-DiscoverFree + BLDC-MEB Full Support Kit</h3>
-				<a href="/f4-discoverfree" title="Learn more about BLDC-MEB"><img alt="F4-DiscoverFree + BLDC-MEB Full Support Kit" class="left" src="/img/F4-DiscoverFree-BLDC-MEB-full-support-kit.jpg" /> </a>
+				<a href="/nodinorobotics/f4discoverfree" title="Learn more about BLDC-MEB"><img alt="F4-DiscoverFree + BLDC-MEB Full Support Kit" class="left" src="/img/F4-DiscoverFree-BLDC-MEB-full-support-kit.jpg" /> </a>
 
 				<p>A complete brushless DC motor development kit containing:</p>
 
