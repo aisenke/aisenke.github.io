@@ -12,7 +12,7 @@ layout: default
 		FR-4 made legs, servo firmware done, working serial console<br />
 		wireless communication is up and running!</p>
 
-		<p style="text-align: center;"><img alt="" src="/img/nodino-rc7.jpg" style="height: 461px;" /></p>
+		<p style="text-align: center;"><img alt="" src="/img/nodino-rc7.jpg" /></p>
 
 		<p>&nbsp;</p>
 

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Aisenke - Posts Tagged &ldquo;News&rdquo;</title>
+	<title>{{ site.name }} - {{ page.title }}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Aisenke Electronic Technology Co.,Ltd. Webpages">
+	<meta name="description" content="{{ site.description }}">
 	
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<style>
@@ -23,7 +23,14 @@
 			$('a').tooltip('hide')
 		});
 	</script>
-	
+
+	<link href="/css/shCore.css" rel="stylesheet">
+	<link href="/css/ThemeEclipse.css" rel="stylesheet">
+	<script src="/js/shCore.js"></script>
+	<script src="/js/shBrushPlain.js"></script>
+	<script src="/js/shBrushBash.js"></script>
+	<script src="/js/shBrushCpp.js"></script>
+
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -40,7 +47,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="aisenke-local.com">Aisenke</a>
+				<a class="brand" href="{{ site.url }}">{{ site.name }}</a>
 				<div class="nav-collapse collapse">
 					<ul class="nav">
 						<li><a href="/shop">Shop</a></li>
@@ -88,101 +95,4 @@
 			</div>
 		</div>
 	</div>
-
-
-
-<div class="container">
-		
-	<div class="row-fluid">
-	<div class="span12">
-		<h3>Posts Tagged &ldquo;News&rdquo;</h3>
-		<ul>
-			
-			
-			
-			<li>
-			<time style="color:#666;font-size:11px;" datetime='2013-07-21'>07/21/13</time> <a href='/2013/07/21/webpages-migration-to-github/'>Webpages migration to GitHub</a>
-			
-			<a href="/tag/News"><span class="label label-info">News</span></a>
-			
-			</li>
-			
-			
-			
-			
-			
-			<li>
-			<time style="color:#666;font-size:11px;" datetime='2013-07-13'>07/13/13</time> <a href='/2013/07/13/aisenke-new-look-and-feel/'>Aisenke gets a new look and a blog!</a>
-			
-			<a href="/tag/News"><span class="label label-info">News</span></a>
-			
-			</li>
-			
-			
-			
-		</ul>
-		<p><i class="icon-tag"></i> List of tags: 
-		
-		<a href="/tag/News"><span class="label label-info">News</span></a>
-		
-		</p>
-	</div>
-</div>
-
-
-</div>
-	
-	
-	<!-- Row of columns -->
-	<div class="container">
-		
-		<hr>
-		
-		<div class="row-fluid">
-			<div class="span4">
-				<h3>News &amp; Updates</h3>
-				<p>Find out about our latest news and updates:</p>
-				<ul>
-					
-					<li><a  href="/2013/07/21/webpages-migration-to-github/">Webpages migration to GitHub</a></li>
-					
-					<li><a  href="/2013/07/13/aisenke-new-look-and-feel/">Aisenke gets a new look and a blog!</a></li>
-					
-					<li>Visit <a href="http://gpeasy.com/" target="_blank">gpEasy</a> website</li>
-				</ul>
-			</div>
-	
-			<div class="span4">
-				<h3>Services &amp; Support</h3>
-				<p>Quick links to services and support available online or on request.</p>
-				<ul>
-					<li><a href="/tutorials">Tutorials</a> and&nbsp;<a href="/faq">FAQ</a></li>
-					<li><a href="/download">Download</a></li>
-					<li><a href="/services#product_design">Product Design</a></li>
-					<li><a href="/services#pcb_prototyping_and_assembly">PCB prototyping and assembly</a></li>
-					<li><a href="/contact">Tell</a>&nbsp;us what you need</li>
-				</ul>
-			</div>
-		
-			<div class="span4">
-				<h3>Company</h3>
-				<p>Get to know us and please do not hesitate to contact at anytime for any inquiries. Please also read our website&#39;s terms of use.</p>
-				<ul>
-					<li>About Us</li>
-					<li><a href="/contact">Contact</a></li>
-					<li><a href="/terms_of_use">Terms of use</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-	
-	<div class="container">
-		
-		<hr>
-	
-		<p>Copyright &copy; 2011-2013 <a href="aisenke-local.com">Chongqing Aisenke Electronic Technology Co.,Ltd.</a> - All Rights Reserved</p>
-	</div>
-	
-</body>
-</html>
 

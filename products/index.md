@@ -16,7 +16,7 @@ layout: default
 
 		<p class="lead" style="text-align: center;">ARM Cortex&trade;-M4F microcontroller, 2.4GHz wireless transceiver, 4 LEDs, 3-axis accelerometer, 12+2 R/C servo interface, microSD slot, USB port for JTAG/Debugger/Serial port, software development environment available for Windows - Mac OS X - Linux</p>
 
-		<p style="text-align: center;"><a href="/nodinorobotics" title="Click to learn more about Nodino-RC7"><img alt="" src="/img/nodino-rc7.jpg" /></a></p>
+		<p style="text-align: center;"><a href="/nodinorobotics" data-placement="bottom" data-toggle="tooltip" title="Click the picture to learn more about Nodino-RC7"><img alt="" src="/img/nodino-rc7.jpg" /></a></p>
 
 		<p style="text-align: center;">&nbsp;</p>
 
@@ -24,7 +24,7 @@ layout: default
 
 		<p class="lead" style="text-align: center;">ARM Cortex&trade;-M4F microcontroller, 2.4GHz wireless transceiver, 4 LEDs, 3-axis accelerometer, two rows 2x15 expansion headers, microSD slot, USB port for&nbsp;JTAG/Debugger/Serial port, software development environment available for Windows - Mac OS X - Linux</p>
 
-		<p style="text-align: center;"><a href="/nodinorobotics" title="Click to learn more about Nodino-RC2"><img alt="" src="/img/nodino-rc2.jpg" /></a></p>
+		<p style="text-align: center;"><a href="/nodinorobotics" data-placement="bottom" data-toggle="tooltip" title="Click the picture to learn more about Nodino-RC2"><img alt="" src="/img/nodino-rc2.jpg" /></a></p>
 
 		<p style="text-align: center;">&nbsp;</p>
 
@@ -32,7 +32,7 @@ layout: default
 
 		<p class="lead" style="text-align: center;">ARM Cortex&trade;-M4F microcontroller, 2.4GHz wireless transceiver, 4 LEDs, 3-axis accelerometer, two PS/2 joysticks, two rows 2x15 expansion headers, microSD slot, USB port for JTAG/Debugger/Serial port, software development environment available for Windows - Mac OS X - Linux</p>
 
-		<p style="text-align: center;"><a href="/nodinorobotics" title="Click to learn more about Nodino-RC1"><img alt="" src="/img/nodino-rc1.jpg" /></a></p>
+		<p style="text-align: center;"><a href="/nodinorobotics" data-placement="bottom" data-toggle="tooltip" title="Click the picture to learn more about Nodino-RC1"><img alt="" src="/img/nodino-rc1.jpg" /></a></p>
 
 		<p style="text-align: center;">&nbsp;</p>
 
@@ -42,7 +42,7 @@ layout: default
 
 		<p class="lead" style="text-align: center;">ARM Cortex&trade;-M4F microcontroller, 4 LEDs, 3-axis accelerometer,&nbsp;microSD slot, MP3/OGG&nbsp;audio codec, USB OTG port, USB port for JTAG/Debugger/Serial port, software development environment available for Windows - Mac OS X - Linux</p>
 
-		<p style="text-align: center;"><a href="/nodinorobotics/f4discoverfree" title="Click to learn more about F4-DiscoverFree"><img alt="" src="/img/f4-discoverfree.jpg" /></a></p>
+		<p style="text-align: center;"><a href="/f4discoverfree" data-placement="bottom" data-toggle="tooltip" title="Click the picture to learn more about F4-DiscoverFree"><img alt="" src="/img/f4-discoverfree.jpg" /></a></p>
 
 	</div>
 </div>
