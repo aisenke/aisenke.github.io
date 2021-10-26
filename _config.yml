@@ -6,6 +6,5 @@ url: "http://aisenke.github.io/home"
 
 paginate: 5
 
-markdown: redcarpet
 permalink: pretty
 highlighter: rouge
