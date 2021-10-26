@@ -8,4 +8,4 @@ paginate: 5
 
 markdown: redcarpet
 permalink: pretty
-pygments: true
+highlighter: rouge
